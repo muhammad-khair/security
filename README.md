@@ -1,6 +1,6 @@
-# IT-Security
+# Introduction
 
-My notepad about stuff related to IT-security, and specifically penetration testing. Stuff I have come across that I don't feel like googeling again.
+My notepad about stuff related to IT-security, and specifically penetration testing. Stuff I have come across that I don't feel like googling again.
 
 I have used this book to try to write down how some things work, but at the same time I want to use it as a reference book to find commands and things I just can't remember. Therefore I have tried to create a TLDR section in the beginning of some chapters where I have copy-paste ready commands that are useful. And if you want to know more you can continue to read the rest of the chapter. This is my way of making the book a hybrid between the Red Team Field Manual and a standard introduction book to pentesting.
 
@@ -23,4 +23,3 @@ site:hackerone.com sql-injection
 Sometimes the line isn't very clear between the chapters. Some actions might be considered part of the vulnerability analysis-phase, but it could also but considered part of the recon-phase. It is what it is.
 
 These chapters are written sporadically with a lot of stuff missing. I just add stuff wherever whenever. Also, things might not be accurate, I might have misunderstood something or misused a tool. So don't trust me or this book for any accuracy.
-
